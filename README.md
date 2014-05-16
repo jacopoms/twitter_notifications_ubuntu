@@ -1,4 +1,4 @@
-== TWITTER NOTIFICATIONS ==
+## TWITTER NOTIFICATIONS
 
 Small ruby script for twitter notifications on ubuntu.
 
