@@ -6,9 +6,7 @@ require 'fileutils'
 
 @dir = File.expand_path(File.join(File.dirname(__FILE__)))
 @icon = "#{@dir}/icon"
-@icon_default = "#{@dir}/icon_light.png"
 @icon_error= "#{@dir}/icon_light_error.png"
-@icon_dm = "#{@dir}/icon_light_dm.png"
 
 myName = "jackopo"
 
